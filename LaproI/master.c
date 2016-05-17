@@ -14,11 +14,13 @@
 /*********************************************************************/
 /*********************************************************************/
 
+/*Bibliotecas do sistema*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
 #include<curses.h>
 
+/*Bibliotecas do programa*/
 #include"menu.h"
 #include"ascii.h"
 #include"pausa.h"
